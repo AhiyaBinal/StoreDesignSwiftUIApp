@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>nimbussandext-bold.ttf</string>
+		<string>nimbussandext.ttf</string>
+		<string>nimbussandbla.ttf</string>
+		<string>gibson-bold.ttf</string>
+		<string>gibson-regular.ttf</string>
+		<string>Fontspring-DEMO-gibson-medium.otf</string>
+		<string>Fontspring-DEMO-gibson-book.otf</string>
+		<string>FontsFree-Net-SFProDisplay-Bold.ttf</string>
+	</array>
+</dict>
+</plist>
