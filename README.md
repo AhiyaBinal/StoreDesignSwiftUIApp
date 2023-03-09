@@ -39,4 +39,8 @@ Swift UI is a relatively light weight framework and provides various advantages
 
 - **Easy Layouts:** SwiftUI has a powerful layout system that allows developers to build complex layouts using simple and intuitive code. The framework handles many of the common layout tasks automatically, such as spacing and alignment, making it easier for developers to create beautiful and responsive user interfaces.
 
+#### Screenshots
+
+<img src="./ApolloDesign/Screens/Store_Design_Screen1.png" alt="alt text" width="200"/>
+<img src="./ApolloDesign/Screens/Store_Design_Screen2.png" alt="alt text" width="200"/>
 
