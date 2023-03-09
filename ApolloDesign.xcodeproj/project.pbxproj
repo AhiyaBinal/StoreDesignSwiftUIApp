@@ -50,6 +50,8 @@
 		B153CA3C29B7EE3100BCCB66 /* Accessories.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Accessories.swift; sourceTree = "<group>"; };
 		B153CA3E29B7EE6100BCCB66 /* Upgrades.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Upgrades.swift; sourceTree = "<group>"; };
 		B153CA4329B7F56900BCCB66 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		B1867E7829B9992B004AB58D /* Store_Design_Screen2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Store_Design_Screen2.png; sourceTree = "<group>"; };
+		B1867E7929B9992B004AB58D /* Store_Design_Screen1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Store_Design_Screen1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 		B153CA2129B7900700BCCB66 /* ApolloDesign */ = {
 			isa = PBXGroup;
 			children = (
+				B1867E7729B9992B004AB58D /* Screens */,
 				B153CA4329B7F56900BCCB66 /* Info.plist */,
 				B153CA2229B7900700BCCB66 /* ApolloDesignApp.swift */,
 				B1867E7329B99638004AB58D /* Views */,
@@ -152,6 +155,15 @@
 				B153CA3829B7E7AB00BCCB66 /* ColorExtention.swift */,
 			);
 			path = Extention;
+			sourceTree = "<group>";
+		};
+		B1867E7729B9992B004AB58D /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				B1867E7929B9992B004AB58D /* Store_Design_Screen1.png */,
+				B1867E7829B9992B004AB58D /* Store_Design_Screen2.png */,
+			);
+			path = Screens;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
